@@ -118,6 +118,7 @@ npm run dev
 - CSV export feature
 - Pie chart for category-wise summary
 - Make UI fully mobile responsive
+- Perform Unit Testing for code quality
 
 ## Folder Structure
 
