@@ -119,12 +119,6 @@ npm run dev
 - Pie chart for category-wise summary
 - Make UI fully mobile responsive
 
-## DB Info
-- db userName: dbUser1
-- db Password: dbUserPass1
-- MONGO_URI=mongodb+srv://dbUser1:<db_password>@expensesdata.lk42dty.mongodb.net/
-
-
 ## Folder Structure
 
 ```
