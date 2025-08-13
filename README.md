@@ -62,7 +62,7 @@ A web app where users can track their daily income and expenses, view charts, an
 
 ### Clone the repository
 ```
-git clone https://github.com/yourusername/mern-expense-tracker.git
+git clone https://github.com/sindhurani29/mern-expense-tracker.git
 cd mern-expense-tracker
 ```
 
@@ -119,43 +119,3 @@ npm run dev
 - Pie chart for category-wise summary
 - Make UI fully mobile responsive
 - Perform Unit Testing for code quality
-
-## Folder Structure
-
-```
-mern-expense-tracker/
-│
-├── backend/
-│   ├── config/
-│   │   └── db.js
-│   ├── controllers/
-│   │   ├── authController.js
-│   │   └── transactionController.js
-│   ├── middleware/
-│   │   └── authMiddleware.js
-│   ├── models/
-│   │   ├── Transaction.js
-│   │   └── User.js
-│   ├── routes/
-│   │   ├── authRoutes.js
-│   │   └── transactionRoutes.js
-│   ├── .env
-│   ├── server.js
-│   └── package.json
-│
-└── frontend/
-    ├── public/
-    ├── src/
-    │   ├── components/
-    │   │   ├── Navbar.jsx
-    │   │   ├── TransactionForm.jsx
-    │   │   └── TransactionList.jsx
-    │   ├── pages/
-    │   │   ├── Dashboard.jsx
-    │   │   ├── Login.jsx
-    │   │   └── Register.jsx
-    │   ├── App.jsx
-    │   ├── index.css
-    │   └── main.jsx
-    └── package.json
-```
